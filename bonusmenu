@@ -1,0 +1,84 @@
+{
+  "message": "",
+  "error": 0,
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Drinks",
+        "img": "https://i.ibb.co/brGMPJP/2024-05-02-16-00-52.png",
+        "price": 30,
+        "created_at": null,
+        "goods": [
+          
+          {
+            "id": 90,
+            "name": "Light-beer",
+            "img": "https://i.ibb.co/6W631k1/4ran-light-beer.jpg",
+            "price": 210,
+            "mass": "200g"
+          },
+			{
+            "id": 92,
+            "name": "Unfiltered beer",
+            "img": "https://i.ibb.co/q54QHPL/4ran-unfiltered-beer.jpg",
+            "price": 280,
+            "mass": "250g"
+          },
+
+          {
+            "id": 91,
+            "name": "Dark beer",
+            "img": "https://i.ibb.co/fYjQhXC/4ran-dark-beer.jpg",
+            "price": 210,
+            "mass": "250g"
+          },
+			{
+            "id": 93,
+            "name": "Light beer tower",
+            "img": "https://i.ibb.co/2MDSLgN/4ran-beer-tower.jpg",
+            "price": 1100,
+            "mass": "250g"
+          },
+			{
+            "id": 94,
+            "name": "shot-set",
+            "img": "https://i.ibb.co/MPhN7wn/4ran-shots-set.jpg",
+            "price": 1600,
+            "mass": "250g"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Food",
+        "img": "https://i.ibb.co/s2SJ8LC/basket-t-shirt.jpg",
+        "price": 35,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 101,
+            "name": "Crackers for beer",
+            "img": "https://i.ibb.co/hVWnYdT/4ran-crackers-for-beer.jpg",
+            "price": 250,
+            "mass": "250g"
+          },
+          {
+            "id": 102,
+            "name": "Cheese balls for beer",
+            "img": "https://i.ibb.co/R0zQY6w/cheese-balls.jpg",
+            "price": 350,
+            "mass": "250g"
+          },
+			{
+            "id": 103,
+            "name": "Beef burger",
+            "img": "https://i.ibb.co/Np0pVxx/4ran-beef-burger.jpg",
+            "price": 700,
+            "mass": "250g"
+          }
+        ]
+      }
+    ]
+  }
+}
