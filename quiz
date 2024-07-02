@@ -1,0 +1,13 @@
+{
+"id": 1,
+"question" : "What type of billiards is shown in the picture?",
+"image_url" : "https://i.ibb.co/Twh6PHz/snoocker.jpg",
+"right_answer" : 1,
+"bonus" : 15,
+"answers" : [
+    "Russian pyramid",
+    "English Snooker",
+    "Eight - ball",
+    "Black - ball"
+]
+}
